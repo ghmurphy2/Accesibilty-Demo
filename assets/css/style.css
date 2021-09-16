@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* consoladated */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -36,7 +36,7 @@ header nav ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -118,10 +118,13 @@ p {
     font-size: 36px;
 }
 /* changed class footer1, consolidatd  */
-.footer1 {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+}
+/* removed class */
+footer h2{
     font-size: 20px;
 }
