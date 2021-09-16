@@ -1,5 +1,6 @@
 # Accessability
-# 
+# Repository contains quality README file with description, screenshot, and link to deployed application.
+
 ​
 ## Table of contents
 ​
@@ -33,20 +34,7 @@ Landing page
 ​
 Project is created with:
 ​
-- [React](https://reactjs.org/)
-- [React-Router](https://reacttraining.com/react-router/)
-- [React-Redux](https://react-redux.js.org/)
-- [Passport.js](http://www.passportjs.org/)
-- [Material-UI](https://material-ui.com/)
-- [JavaScript](https://www.javascript.com/)
-- [Bootstrap](https://getbootstrap.com/)
-- [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
-- [MongoDb](https://www.mongodb.com/)
-- [Mongoose](https://mongoosejs.com/)
-- [Socket.io](https://socket.io/)
-- [Bcrypt.js](https://www.npmjs.com/package/bcrypt)
-- [React-Chartjs-2](https://github.com/jerairrest/react-chartjs-2)
+
 ​
 ## Containers
 ​
