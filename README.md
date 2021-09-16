@@ -1,21 +1,10 @@
-Inproved Accessability Repo
+# Inproved Accessability Repo
 ​
-- [General info](#General-Info)
-- [Technologies](#Technologies)
-- [Deployment](#Deployment)
-- [Summary](#Summary)
+![image](assets/images/digital-marketing-meeting.jpg)
 ​
 ## General-Info
 ​
-Rewrote HTML and CSS to improve website accessability and consoladating 
-​
-Deployed link: 
-
-https://ghmurphy2.github.io/Accesibilty-Demo/
-
-Repo link:
-
-https://github.com/ghmurphy2/Accesibilty-Demo
+Refactored HTML and CSS to improve website accessability. Also consoladted CSS classes to provide more efficient code.  
 
 ## Technologies
 ​
@@ -24,7 +13,9 @@ HTML and CSS​
 ​
 ## Deployment
 ​
-Download the repository
+https://github.com/ghmurphy2/Accesibilty-Demo
+
+https://ghmurphy2.github.io/Accesibilty-Demo/
 ​
 ## Summary
 ​
